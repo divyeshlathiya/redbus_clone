@@ -1,16 +1,45 @@
-# redbus_app
+# 🚌 RedBus Clone - Flutter App (Educational Project)
 
-A new Flutter project.
+A clone of the RedBus app built using **Flutter**, aimed at learning mobile UI design, state management, and navigation in a real-world app layout.
 
-## Getting Started
+> ⚠️ **Note:** This project is developed **purely for educational purposes** and is not affiliated with RedBus or its parent company.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Modern and clean RedBus-style UI
+- Source & destination city selection
+- Date picker for travel date
+- Bus search button (UI only)
+- Custom reusable widgets
+- Basic state management
+- Navigation between pages
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (UI framework)
+- **Dart** (programming language)
+- Flutter Widgets like:
+  - `TextFormField`, `DropdownButton`, `DatePicker`, `ListView`, `Card`, etc.
+- `Provider` or `setState()` (depending on your implementation)
+- `Material Design` components
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio / VS Code with Flutter extensions
+- A connected device or emulator
+
+### Installation
+
+```bash
+git clone https://github.com/divyeshlathiya/redbus_clone.git
+cd redbus_clone
+flutter pub get
+flutter run
