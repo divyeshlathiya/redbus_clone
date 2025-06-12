@@ -10,7 +10,7 @@ A clone of the RedBus app built using **Flutter**, aimed at learning mobile UI d
 
 | Bus Screen | Train  | Search Page |
 |-------------|-------------|--------------|
-| ![Bus](assets/screenshots/bus_homescreen.jpg) | ![Train](assets/screenshots/train_homescreen.jpg) | ![Search](assets/screenshots/results_page.png) |
+| ![Bus](assets/screenshots/bus_homescreen.jpg) | ![Train](assets/screenshots/train_homescreen.jpg) | ![Search](assets/screenshots/search_page.jpg) |
 
 
 ## 📱 Features
