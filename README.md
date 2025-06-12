@@ -30,7 +30,7 @@ A clone of the RedBus app built using **Flutter**, aimed at learning mobile UI d
 - **Dart** (programming language)
 - Flutter Widgets like:
   - `TextFormField`, `DropdownButton`, `DatePicker`, `ListView`, `Card`, etc.
-- `Provider` or `setState()` (depending on your implementation)
+- `setState()` 
 - `Material Design` components
 
 ---
